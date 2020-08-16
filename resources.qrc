@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/clear.svg</file>
+        <file>icons/colors.svg</file>
+        <file>icons/copy.svg</file>
+        <file>icons/eraser.svg</file>
+        <file>icons/layers.svg</file>
+        <file>icons/line.svg</file>
+        <file>icons/new-file.svg</file>
+        <file>icons/open.svg</file>
+        <file>icons/oval.svg</file>
+        <file>icons/paste.svg</file>
+        <file>icons/pen.svg</file>
+        <file>icons/rectangle.svg</file>
+        <file>icons/save.svg</file>
+        <file>icons/down.svg</file>
+        <file>icons/eye.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/up.svg</file>
+    </qresource>
+</RCC>
